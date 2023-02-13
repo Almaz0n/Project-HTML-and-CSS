@@ -1,0 +1,19 @@
+/* * {
+  margin: 0;
+} */
+
+p {
+    font-size: 24px;
+    background-color: green;
+}
+
+.conteiner {
+    /* display: inline-block; */
+    /* text-align: center; */
+    /* width: 500px; */
+    /* height: 100px; */
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(202, 212, 212);
+}
+
